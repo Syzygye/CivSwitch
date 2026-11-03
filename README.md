@@ -2,6 +2,8 @@
 
 Port nativo en formato FAP de Civilization VII Exploit.
 
+Inicialo en el chat del juego.
+
 
 ## Fuentes y atribuciones
 
