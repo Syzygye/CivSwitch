@@ -2,13 +2,6 @@
 
 Port nativo en formato FAP de Civilization VII Exploit.
 
-Requisitos: Node.js/npm y uFBT configurado para el firmware de Flipper que vayas a usar. Desde PowerShell, en la carpeta `FlipperApp`:
-
-```powershell
-.\build.ps1
-```
-
-El script instala las dependencias bloqueadas, genera el payload desde `core.js`, lo integra en la FAP y ejecuta `ufbt build`. La salida queda en `FlipperApp/dist/CivSwitch.fap`.
 
 ## Fuentes y atribuciones
 
