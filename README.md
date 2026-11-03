@@ -1,8 +1,6 @@
 # CivSwitch para Flipper Zero
 
-Port nativo en formato FAP de la macro HID de CivSwitch. Este paquete contiene solo el código de la app Flipper y los archivos mínimos que necesita su proceso de compilación. No incluye el firmware Pico completo, el instalador de guardado, imágenes de parche, dependencias descargadas ni binarios compilados.
-
-## Compilar
+Port nativo en formato FAP de Civilization VII Exploit.
 
 Requisitos: Node.js/npm y uFBT configurado para el firmware de Flipper que vayas a usar. Desde PowerShell, en la carpeta `FlipperApp`:
 
