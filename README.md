@@ -26,5 +26,3 @@ El aviso MIT conservado corresponde al CivSwitch original y no concede derechos 
 El software se proporciona «tal cual», sin garantías de funcionamiento, seguridad, compatibilidad o idoneidad, sujeto a los términos de `LICENSE` y a la legislación aplicable. Este texto no es asesoramiento jurídico ni garantiza que un uso determinado esté permitido.
 
 Úsalo solo en dispositivos, juegos y redes tuyos o para los que tengas autorización expresa. Tú eres responsable de cumplir la legislación, los derechos de terceros y las condiciones de los servicios utilizados. La FAP emite entradas USB HID y escribe en la aplicación o campo que esté enfocado; confirma el foco antes de iniciar la macro. No se garantiza que su uso evite consecuencias previstas por las políticas de terceros.
-
-Nintendo Switch, Civilization, Flipper Zero y sus marcas pertenecen a sus respectivos titulares. El proyecto no está patrocinado ni aprobado por Nintendo, 2K, Firaxis Games o Flipper Devices. Este descargo no limita derechos que no puedan excluirse conforme a la ley aplicable.
